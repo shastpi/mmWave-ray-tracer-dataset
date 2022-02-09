@@ -1,2 +1,2 @@
-# mmWave-ray-tracer-data-from-Wireless-Insite-by-Remcom
+# mmWave-ray-tracer-dataset
 Data for simulating channel at mmWave frequencies with some mobility in Downtown Roslyn, VA
