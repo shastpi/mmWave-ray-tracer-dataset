@@ -1,3 +1,2 @@
-Methodology of simulation and all the required parameters can be found in the pdf file.
+Methodology of simulation and all the required parameters can be found in the attached .pdf file.
 
-%TODO add pdf file
