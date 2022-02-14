@@ -1,4 +1,4 @@
-Beamforming codebook antenna patterns for BS and UE.
+Beamforming codebook antenna patterns for BS and UE. All the gains are in dB
 
 BS has 64 codewords in its codebook. UE has 8 codewords in its codebook.
 
