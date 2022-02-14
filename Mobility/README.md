@@ -12,4 +12,4 @@ velocities_new.mat contains a vector **vvec** with dimensions N_traj x 1 where N
 
 plot_trajectory_demo is the complete demo of how to convert measurement indices to actual x-y cordinates and then plot it over the binary occupancy grid.
 
-% To be added: Implementation of RRT on binary occupancy grid using MATLAB robot navigation toolbox
+Demo for Implementation of RRT on binary occupancy grid using MATLAB robot navigation toolbox is given in avoidBuildingsUsingRRT.mlx and avoidBuildingsUsingRRT.pdf
